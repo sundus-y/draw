@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.7)
+    mini_magick (4.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  mini_magick
